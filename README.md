@@ -6,6 +6,7 @@ WIP
 
 ## help unix
 
+```
 Concatenate FILE(s) to standard output.
 
 With no FILE, or when FILE is -, read standard input.
@@ -26,4 +27,6 @@ With no FILE, or when FILE is -, read standard input.
 Examples:
   cat f - g  Output f's contents, then standard input, then g's contents.
   cat        Copy standard input to standard output.
+```
+
 
